@@ -167,6 +167,23 @@ var _hmt = _hmt || [];
 </section>
 
 
+
+    <div id="gitment_container"></div>
+    <link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+    <script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+    <script>
+    var gitment = new Gitment({
+        id: 'Hello World',
+        owner: 'RedMagicVer7',
+        repo: 'RedMagicVer7.github.io',
+        oauth: {
+            client_id: '5136e59ab62f813d19f6',
+            client_secret: 'f4956a4d8d03cd206db41e7f46ffcdc70439997f',
+        },
+    })
+    gitment.render('gitment_container')
+    </script>
+
 	</div> <!-- col-md-9/col-md-12 -->
 		
 	
