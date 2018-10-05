@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://redmagicver7.github.io/%E5%A5%BD%E4%BA%BA/index.html</loc>
+    <loc>https://redmagicver7.github.io/tags/index.html</loc>
     
-    <lastmod>2018-10-05T05:22:00.814Z</lastmod>
+    <lastmod>2018-10-05T05:25:38.782Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://redmagicver7.github.io/categories/index.html</loc>
+    
+    <lastmod>2018-10-05T05:25:38.776Z</lastmod>
     
   </url>
   
