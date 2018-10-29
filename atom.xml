@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://redmagicver7.github.io/"/>
-  <updated>2018-10-29T13:15:48.086Z</updated>
+  <updated>2018-10-29T13:15:51.891Z</updated>
   <id>https://redmagicver7.github.io/</id>
   
   <author>
@@ -15,32 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>java</title>
-    <link href="https://redmagicver7.github.io/2018/10/29/daily%20job/java/"/>
-    <id>https://redmagicver7.github.io/2018/10/29/daily job/java/</id>
-    <published>2018-10-29T12:01:31.000Z</published>
-    <updated>2018-10-29T13:15:48.086Z</updated>
-    
-    <content type="html"><![CDATA[<a id="more"></a><h2 id="java"><a href="#java" class="headerlink" title="java"></a>java</h2><p>##2018年10月26日<br>public static String    aaa()<br>public static ServiceResult    aaa()</p><p>为什么static不能有返回值不同的同名方法？？</p><p>客户端cookie、js、页面空白</p><h2 id="done"><a href="#done" class="headerlink" title="done"></a>done</h2><p><strong>本文作者</strong>：red0range<br><strong>本文地址</strong>： <a href="https://redmagicver7.github.io/2018/10/29/daily job/java/">https://redmagicver7.github.io/2018/10/29/daily job/java/</a> <br><strong>版权声明</strong>：本博客所有文章除特别声明外，均采用 <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/cn/" target="_blank" rel="noopener">CC BY-NC-SA 3.0 CN</a> 许可协议。转载请注明出处！</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;java&quot;&gt;&lt;a href=&quot;#java&quot; class=&quot;headerlink&quot; title=&quot;java&quot;&gt;&lt;/a&gt;java&lt;/h2&gt;&lt;p&gt;##2018年10月26日&lt;br&gt;public static String    aaa
-      
-    
-    </summary>
-    
-      <category term="编程" scheme="https://redmagicver7.github.io/categories/%E7%BC%96%E7%A8%8B/"/>
-    
-    
-      <category term="daily job" scheme="https://redmagicver7.github.io/tags/daily-job/"/>
-    
-  </entry>
   
   <entry>
     <title>运维</title>
@@ -57,6 +31,33 @@
       
         &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
 &lt;h2 id=&quot;运维&quot;&gt;&lt;a href=&quot;#运维&quot; class=&quot;headerlink&quot; title=&quot;运维&quot;&gt;&lt;/a&gt;运维&lt;/h2&gt;&lt;h2 id=&quot;2018年10月26日&quot;&gt;&lt;a href=&quot;#2018年10月26日&quot; class=&quot;head
+      
+    
+    </summary>
+    
+      <category term="编程" scheme="https://redmagicver7.github.io/categories/%E7%BC%96%E7%A8%8B/"/>
+    
+    
+      <category term="daily job" scheme="https://redmagicver7.github.io/tags/daily-job/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>java</title>
+    <link href="https://redmagicver7.github.io/2018/10/29/daily%20job/java/"/>
+    <id>https://redmagicver7.github.io/2018/10/29/daily job/java/</id>
+    <published>2018-10-29T12:01:31.000Z</published>
+    <updated>2018-10-29T13:38:04.468Z</updated>
+    
+    <content type="html"><![CDATA[<a id="more"></a><h2 id="java"><a href="#java" class="headerlink" title="java"></a>java</h2><p>客户端cookie、js、页面空白</p><h2 id="done"><a href="#done" class="headerlink" title="done"></a>done</h2><p><strong>本文作者</strong>：red0range<br><strong>本文地址</strong>： <a href="https://redmagicver7.github.io/2018/10/29/daily job/java/">https://redmagicver7.github.io/2018/10/29/daily job/java/</a> <br><strong>版权声明</strong>：本博客所有文章除特别声明外，均采用 <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/cn/" target="_blank" rel="noopener">CC BY-NC-SA 3.0 CN</a> 许可协议。转载请注明出处！</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;java&quot;&gt;&lt;a href=&quot;#java&quot; class=&quot;headerlink&quot; title=&quot;java&quot;&gt;&lt;/a&gt;java&lt;/h2&gt;&lt;p&gt;客户端cookie、js、页面空白&lt;/p&gt;
+&lt;h2 id=&quot;done&quot;&gt;&lt;a href=
       
     
     </summary>
